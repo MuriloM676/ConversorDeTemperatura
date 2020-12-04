@@ -2,6 +2,12 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
+![GitHub repo size](https://img.shields.io/github/repo-size/MuriloM676/README-template?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/MuriloM676/README-template?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/MuriloM676/README-template?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/MuriloM676/README-template?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/MuriloM676/README-template?style=for-the-badge)
+
 <img src="https://github.com/MuriloM676/ConversorDeTemperatura/blob/master/Assets/exemple.png" alt="exemplo imagem">
 
 > Projeto feito em Python3 usando a lib PySimpleGUI. Um conversor simples, rápido e prático.
