@@ -2,9 +2,9 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-<img src="exemple.png" alt="exemplo imagem">
+<img src="../Assets/exemple.png" alt="exemplo imagem">
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+> Projeto feito em Python3 usando a lib PySimpleGUI. Um conversor simples e prático de temperatura.
 
 ### Ajustes e melhorias
 
