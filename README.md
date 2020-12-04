@@ -52,7 +52,7 @@ Adicione comandos de execução e exemplos que você acha que os usuários achar
 
 ## 📫 Contribuindo
 <!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
-Para contribuir com o projeto me mande uma mensagem em murilom676@gmail.com
+Para contribuir com o conversor de temperatura, siga estas etapas:
 
 1. Bifurque este repositório.
 2. Crie um branch: `git checkout -b <nome_branch>`.
@@ -64,7 +64,7 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
 
 ## 😄 Seja um dos contribuidores<br>
 
-Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
+Quer fazer parte desse projeto? Me envie um e-mail para murilom676@gmail.com com o seguinte tema "Contrib.ConversorTemp".
 
 ## 📝 Licença
 
