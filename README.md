@@ -2,7 +2,7 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-<img src="../Assets/exemple.png" alt="exemplo imagem">
+<img src="https://github.com/MuriloM676/ConversorDeTemperatura/blob/master/Assets/exemple.png" alt="exemplo imagem">
 
 > Projeto feito em Python3 usando a lib PySimpleGUI. Um conversor simples e prático de temperatura.
 
@@ -20,7 +20,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
 * Você instalou a versão mais recente de `<Python3 / PySimpleGUI >`
-* Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
+* Você tem uma máquina `<Windows / Linux / Mac>`.
 
 ## 🚀 Instalando 
 
