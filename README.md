@@ -4,7 +4,7 @@
 
 <img src="https://github.com/MuriloM676/ConversorDeTemperatura/blob/master/Assets/exemple.png" alt="exemplo imagem">
 
-> Projeto feito em Python3 usando a lib PySimpleGUI. Um conversor simples e prático de temperatura.
+> Projeto feito em Python3 usando a lib PySimpleGUI. Um conversor simples, rápido e prático.
 
 ### Ajustes e melhorias
 
