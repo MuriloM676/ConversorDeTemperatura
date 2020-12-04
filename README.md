@@ -14,7 +14,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Adcionar opção de escolha entre Fahrenheit e Kelvin
 - [x] Conclusão do projeto
 - [x] Adcionar o README
-- [ ] Finalizar o README
+- [x] Finalizar o README
 
 ## 💻 Pré-requisitos
 
@@ -36,7 +36,7 @@ python3 Main.py
 
 Windows:
 ```
-<comando_de_instalação>
+https://python.org.br/instalacao-windows/
 ```
 
 ## ☕ Usando o conversor de temperatura
@@ -52,7 +52,7 @@ Adicione comandos de execução e exemplos que você acha que os usuários achar
 
 ## 📫 Contribuindo
 <!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
-Para contribuir com o conversor de temperatura, siga estas etapas:
+Para contribuir com o projeto me mande uma mensagem em murilom676@gmail.com
 
 1. Bifurque este repositório.
 2. Crie um branch: `git checkout -b <nome_branch>`.
