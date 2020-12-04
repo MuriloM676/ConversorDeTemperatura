@@ -11,9 +11,10 @@
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [x] Colocar interface gráfica 
-- [x] Adcionar opção de escolha entre F e Kelvin
-- [x] Conclusão
-
+- [x] Adcionar opção de escolha entre Fahrenheit e Kelvin
+- [x] Conclusão do projeto
+- [x] Adcionar o README
+- [ ] Finalizar o README
 
 ## 💻 Pré-requisitos
 
